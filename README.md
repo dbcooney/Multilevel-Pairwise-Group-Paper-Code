@@ -4,7 +4,18 @@ This repository accompanies the preprint "Steady-State and Dynamical Behavior of
 
 The repository is organized into three folders: Scripts, Figures, and Simulation Outputs. All of the scripts can be run using Python 3.10.
 
-For reference, below is a list of figures and the scripts that were used to generate each figure.
+For reference, below is a list of figures and the scripts that were used to generate each figure. For scripts that are used to generate more than one figure or figure panel, see that the caption in the figure to choose parameter values for the simulation. 
 
-*Figure 6.1:
-*Figure 6.2:
+* Figure 6.1: Run fvpairwisegroup.py
+* Figure 6.2: 
+* Figure 6.3:
+* Figure 6.4:
+* Figure 6.5:
+* Figure 6.6:
+* Figure 6.7:
+* Figure 6.8:
+* Figure 6.9:
+* Figure B.1:
+* Figure B.2:
+* Figure B.3:
+  
